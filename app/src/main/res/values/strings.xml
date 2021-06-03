@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CARS_Application</string>
+    <string name="main_text">This is aplication about car models</string>
+    <string name="see_all_products">See all products</string>
+</resources>
